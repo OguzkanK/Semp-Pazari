@@ -1,0 +1,1 @@
+An Amazon like shopping website where you can sign up for an account. It uses java for database operations.
